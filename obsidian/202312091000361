@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="/theme/v2board/assets/components.chunk.css?v=1.7.4.1681103823832">
+    <link rel="stylesheet" href="/theme/v2board/assets/umi.css?v=1.7.4.1681103823832">
+        <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no">
+        <meta name="theme-color" content="#0665d0">
+
+    <title>SURFCLOUD - 冲浪云</title>
+    <!-- <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,400i,600,700"> -->
+    <script>window.routerBase = "/";</script>
+    <script>
+        window.settings = {
+            title: 'SURFCLOUD - 冲浪云',
+            assets_path: '/theme/v2board/assets',
+            theme: {
+                sidebar: 'light',
+                header: 'dark',
+                color: 'default',
+            },
+            version: '1.7.4.1681103823832',
+            background_url: '',
+            description: 'SURFCLOUD - 稳定可靠的互联网接入方案',
+            i18n: [
+                'zh-CN',
+                'en-US',
+                'ja-JP',
+                'vi-VN',
+                'ko-KR',
+                'zh-TW',
+                'fa-IR'
+            ],
+            logo: ''
+        }
+    </script>
+    <script src="/theme/v2board/assets/i18n/zh-CN.js?v=1.7.4.1681103823832"></script>
+    <script src="/theme/v2board/assets/i18n/zh-TW.js?v=1.7.4.1681103823832"></script>
+    <script src="/theme/v2board/assets/i18n/en-US.js?v=1.7.4.1681103823832"></script>
+    <script src="/theme/v2board/assets/i18n/ja-JP.js?v=1.7.4.1681103823832"></script>
+    <script src="/theme/v2board/assets/i18n/vi-VN.js?v=1.7.4.1681103823832"></script>
+    <script src="/theme/v2board/assets/i18n/ko-KR.js?v=1.7.4.1681103823832"></script>
+    <script src="/theme/v2board/assets/i18n/fa-IR.js?v=1.7.4.1681103823832"></script>
+</head>
+
+<body>
+<div id="root"></div>
+<script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="1a5d48f4-87ff-4b59-ae68-69221c36d0a7";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
+<style>.nav-main-item:nth-child(11) {display:none;}</style>
+<script src="/theme/v2board/assets/vendors.async.js?v=1.7.4.1681103823832"></script>
+<script src="/theme/v2board/assets/components.async.js?v=1.7.4.1681103823832"></script>
+<script src="/theme/v2board/assets/umi.js?v=1.7.4.1681103823832"></script>
+</body>
+
+</html>
